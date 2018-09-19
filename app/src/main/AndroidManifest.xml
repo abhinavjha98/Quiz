@@ -21,6 +21,7 @@
         </activity>
         <activity android:name=".Second_Ques">
         </activity>
+        <activity android:name=".sana"></activity>
     </application>
 
 </manifest>
